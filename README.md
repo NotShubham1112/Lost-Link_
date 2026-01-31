@@ -21,6 +21,26 @@
 
 ---
 
+## 👨‍💻 Created by Shubham Kambli
+
+<div align="center">
+
+### **Founder of COSMIC • AI Engineer • Open-Source Builder**
+*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering.*
+
+[![🌐 Website](https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notshubham111.dev)
+[![📧 Email](https://img.shields.io/badge/Email-shubhamkambli1112%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkambli1112@gmail.com)
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kambli-720650339)
+[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Not_Shubham_111-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Not_Shubham_111)
+[![👾 Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XA3ctdYZ)
+[![ Reddit](https://img.shields.io/badge/Reddit-u/Not_Shubham_111-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Not_Shubham_111)
+
+[📖 View Full Portfolio](https://portfolio.notshubham111.dev) • [🏠 Wiki Home](https://github.com/NotShubham111/Lost-Link/wiki)
+
+</div>
+
+---
+
 ## 🎯 Project Overview
 
 ### The Mission
@@ -108,24 +128,6 @@ npm run build
 
 > [!IMPORTANT]
 > **Firewall Configuration:** Ensure your local network allows **UDP Broadcasts** on port 5000 (default) for peer discovery to function correctly.
-
----
-
-## 👨‍💻 Created by Shubham Kambli
-
-<div align="center">
-
-### **Founder of COSMIC • AI Engineer • Open-Source Builder**
-*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering.*
-
-[![🌐 Website](https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notshubham111.dev)
-[![📧 Email](https://img.shields.io/badge/Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkambli@example.com)
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamkambli)
-[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Not_Shubham_111-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Not_Shubham_111)
-
-[📖 View Full Portfolio](https://portfolio.notshubham111.dev) • [🏠 Wiki Home](https://github.com/NotShubham111/Lost-Link/wiki)
-
-</div>
 
 ---
 
