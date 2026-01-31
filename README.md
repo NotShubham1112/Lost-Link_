@@ -21,21 +21,26 @@
 
 ---
 
-## 👨‍💻 Created by Shubham Kambli
-
 <div align="center">
 
-### **Founder of COSMIC • AI Engineer • Open-Source Builder**
-*19-year-old Founder of COSMIC, AI engineer, and open-source builder creating production-ready tools at the intersection of artificial intelligence and software engineering.*
+# 👨‍💻 Developed by **Shubham Kambli**
+### *The Architect behind the Mesh*
 
-[![🌐 Website](https://img.shields.io/badge/Personal_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://notshubham111.dev)
-[![📧 Email](https://img.shields.io/badge/Email-shubhamkambli1112%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkambli1112@gmail.com)
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kambli-720650339)
-[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Not_Shubham_111-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Not_Shubham_111)
-[![👾 Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XA3ctdYZ)
-[![ Reddit](https://img.shields.io/badge/Reddit-u/Not_Shubham_111-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Not_Shubham_111)
+**Founder of [COSMIC](https://notshubham111.dev) • AI Engineer • Open-Source Visionary**
 
-[📖 View Full Portfolio](https://portfolio.notshubham111.dev) • [🏠 Wiki Home](https://github.com/NotShubham111/Lost-Link/wiki)
+---
+
+> "I build high-performance systems that bridge the gap between theoretical AI and production-ready reality. 19-year-old founder, engineer, and builder creating tools for the future of decentralized computing."
+
+<br>
+
+| 🌐 **Ecosystem** | 📧 **Direct** | 💼 **Professional** | 🐦 **Social** | 👾 **Community** |
+|:---:|:---:|:---:|:---:|:---:|
+| [**Portfolio**](https://portfolio.notshubham111.dev) | [**Email**](mailto:shubhamkambli1112@gmail.com) | [**LinkedIn**](https://linkedin.com/in/shubham-kambli-720650339) | [**Twitter**](https://twitter.com/Not_Shubham_111) | [**Discord**](https://discord.gg/XA3ctdYZ) |
+
+<br>
+
+**[🏠 Explore the Wiki](https://github.com/NotShubham111/Lost-Link/wiki) • [📖 Full Case Study](https://portfolio.notshubham111.dev)**
 
 </div>
 
