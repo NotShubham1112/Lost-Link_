@@ -27,7 +27,7 @@ export default function DownloadPage() {
                     <h3 className="text-xl font-bold mb-2">Windows</h3>
                     <p className="text-sm text-muted-foreground mb-6">Windows 10/11 (x64)</p>
                     <Button className="w-full" asChild>
-                        <a href="/lost-link-0.1.1-setup.exe" download="lost-link-0.1.1-setup.exe">
+                        <a href="https://github.com/NotShubham1112/Lost-Link/releases/download/v0.1.1/lost-link-0.1.1-setup.exe" download="lost-link-0.1.1-setup.exe">
                             Download .exe
                         </a>
                     </Button>
