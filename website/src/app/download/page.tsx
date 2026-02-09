@@ -4,12 +4,18 @@ import { ArrowRight, Github, Monitor, Apple, Smartphone } from "lucide-react";
 
 export default function DownloadPage() {
     return (
-        <div className="container py-24 md:py-32">
+        <div className="container mx-auto max-w-screen-2xl px-4 md:px-6 py-24 md:py-32">
             <div className="flex flex-col items-center text-center space-y-8 mb-16">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Download Lost-Link</h1>
                 <p className="max-w-[700px] text-muted-foreground md:text-xl">
                     Get the latest version for your operating system. Secure, offline messaging is just a click away.
                 </p>
+                <div className="inline-flex items-center rounded-full border bg-muted px-4 py-2 text-sm">
+                    <span className="font-semibold mr-2">Latest Version:</span>
+                    <span className="text-primary font-mono">v0.1.1</span>
+                    <span className="mx-2 text-muted-foreground">•</span>
+                    <span className="text-muted-foreground">72.9 MB</span>
+                </div>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
@@ -21,9 +27,9 @@ export default function DownloadPage() {
                     <h3 className="text-xl font-bold mb-2">Windows</h3>
                     <p className="text-sm text-muted-foreground mb-6">Windows 10/11 (x64)</p>
                     <Button className="w-full" asChild>
-                        <Link href="https://github.com/NotShubham1112/Lost-Link/releases" target="_blank">
+                        <a href="/lost-link-0.1.1-setup.exe" download="lost-link-0.1.1-setup.exe">
                             Download .exe
-                        </Link>
+                        </a>
                     </Button>
                 </div>
 
